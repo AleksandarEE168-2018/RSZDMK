@@ -11,3 +11,7 @@ int main()
           printf("Result: %d\n", c);
     return 0;
 }
+void PrintResult(int res)
+{
+printf("Result: %d\n", res);
+}
